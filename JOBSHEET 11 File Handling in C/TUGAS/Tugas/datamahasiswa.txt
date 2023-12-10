@@ -1,0 +1,12 @@
+Data mahasiswa ke-1
+Nama : nadya
+NIM : 23343088
+Jurusan : teknik
+Program Studi : informatika
+
+Data mahasiswa ke-2
+Nama : najwa
+NIM : 23343089
+Jurusan : teknik
+Program Studi : informatika
+
